@@ -21,4 +21,4 @@ __Deploy the images to scale__
 * To run image
   - docker run -p localport : containerport -name container-name image-name 
 * To stop    
-  -docker stop container-name
+  - docker stop container-name
